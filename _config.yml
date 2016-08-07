@@ -1,0 +1,14 @@
+layout_spectrum: 0.09851263673044741
+typography_spectrum: 0.2182251955382526
+color:
+  brandStrength: 0.46055021043866873
+  lightness: 0.6101386132650077
+  saturation: 0.9137551977764815
+  rhythmicContrast: 0.9372875939588994
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Top Shelf
