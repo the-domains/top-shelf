@@ -1,4 +1,3 @@
-layout_spectrum: 0.09851263673044741
 typography_spectrum: 0.2182251955382526
 color:
   brandStrength: 0.46055021043866873
@@ -6,9 +5,11 @@ color:
   saturation: 0.9137551977764815
   rhythmicContrast: 0.9372875939588994
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.09851263673044741
 name: Top Shelf
+title: Thug Yoga
